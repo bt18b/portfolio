@@ -1,4 +1,3 @@
-# last updated 01.11.2024
 # tabi
 
 A fast, lightweight, and modern [Zola](https://www.getzola.org) theme with multi-language support. It aims to be a personal page and home to blog posts.
