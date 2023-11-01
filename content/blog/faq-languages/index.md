@@ -47,7 +47,7 @@ For instance, if you want (Simplified) Chinese to be the primary language, simpl
 
 ```toml, hl_lines=03
 base_url = "https://welpo.github.io/tabi"
-title = "~/tabi"
+title = "~/ben"
 default_language = "zh"
 ```
 

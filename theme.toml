@@ -112,7 +112,7 @@ short_date_format = ""
 separator = "•"
 
 # Invert the order of the site title and page title in the browser tab.
-# Example: true => "Blog • ~/tabi", false => "~/tabi • Blog"
+# Example: true => "Blog • ~/ben", false => "~/ben • Blog"
 invert_title_order = false
 
 # Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.ico"

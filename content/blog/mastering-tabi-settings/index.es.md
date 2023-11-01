@@ -51,7 +51,7 @@ Para configurar la imagen y el título, puedes usar la variable `header` en el f
 
 ```toml
 [extra]
-header = {title = "¡Hola! Soy tabi~", img = "blog/mastering-tabi-settings/img/main.webp", img_alt = "Óscar Fernández, el autor del tema" }
+header = {title = "¡Hola! Soy ben~", img = "blog/mastering-tabi-settings/img/main.webp", img_alt = "Óscar Fernández, el autor del tema" }
 ```
 
 La descripción es contenido Markdown normal, escrito fuera del front matter.
@@ -66,7 +66,7 @@ template = "section.html"
 paginate_by = 5
 
 [extra]
-header = {title = "¡Hola! Soy tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, el autor del tema" }
+header = {title = "¡Hola! Soy ben~", img = "img/main.webp", img_alt = "Óscar Fernández, el autor del tema" }
 ```
 
 Si prefieres servir las publicaciones desde `/blog`, puedes configurar `section_path = "/blog"` en la sección `[extra]`. Esta es la configuración de esta demo:
@@ -77,7 +77,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "¡Hola! Soy tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, el autor del tema" }
+header = {title = "¡Hola! Soy ben~", img = "img/main.webp", img_alt = "Óscar Fernández, el autor del tema" }
 section_path = "blog/_index.es.md"
 max_posts = 4
 ```
@@ -601,9 +601,9 @@ El separador por defecto es un punto de viñeta (`•`), pero puedes cambiarlo c
 |:------:|:-------:|:-------------:|:------------------:|:-------------------:|
 |   ❌   |   ❌    |      ✅       |         ❌         |         ❌          |
 
-Por defecto, el título en la pestaña del navegador es el nombre del sitio seguido del título de la página. Por ejemplo, el título de la sección del blog es «~/tabi • Blog».
+Por defecto, el título en la pestaña del navegador es el nombre del sitio seguido del título de la página. Por ejemplo, el título de la sección del blog es «~/ben • Blog».
 
-Al configurar `invert_title_order = true`, puedes invertir el orden del título del sitio y el título de la página en la pestaña del navegador. Por ejemplo, la etiqueta del título de la sección del blog se convertiría en «Blog • ~/tabi».
+Al configurar `invert_title_order = true`, puedes invertir el orden del título del sitio y el título de la página en la pestaña del navegador. Por ejemplo, la etiqueta del título de la sección del blog se convertiría en «Blog • ~/ben».
 
 ---
 

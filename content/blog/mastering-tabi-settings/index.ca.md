@@ -53,7 +53,7 @@ Per configurar la imatge i el títol, pots utilitzar la variable `header` al fro
 
 ```toml
 [extra]
-header = {title = "Hola! Soc tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, l'autor del tema" }
+header = {title = "Hola! Soc ben~", img = "img/main.webp", img_alt = "Óscar Fernández, l'autor del tema" }
 ```
 
 La descripció és contingut Markdown normal, escrit fora del front matter.
@@ -68,7 +68,7 @@ template = "section.html"
 paginate_by = 5
 
 [extra]
-header = {title = "Hola! Sóc tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, l'autor del tema" }
+header = {title = "Hola! Sóc ben~", img = "img/main.webp", img_alt = "Óscar Fernández, l'autor del tema" }
 ```
 
 Si prefereixes servir les publicacions des de `/blog`, pots configurar `section_path = "/blog"` a la secció `[extra]`. Aquesta és la configuració d'aquesta demo:
@@ -79,7 +79,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Hola! Sóc tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, l'autor del tema" }
+header = {title = "Hola! Sóc ben~", img = "img/main.webp", img_alt = "Óscar Fernández, l'autor del tema" }
 section_path = "blog/_index.es.md"
 max_posts = 4
 ```
@@ -605,7 +605,7 @@ El separador per defecte és un punt de llista (`•`), però pots canviar-lo co
 
 Per defecte, el títol a la pestanya del navegador és el nom del lloc seguit del títol de la pàgina. Per exemple, el títol de la secció del blog és «~/tabi • Blog».
 
-Configurant `invert_title_order = true`, pots invertir l'ordre del títol del lloc i el títol de la pàgina a la pestanya del navegador. Per exemple, l'etiqueta del títol de la secció del blog es convertiria en «Blog • ~/tabi».
+Configurant `invert_title_order = true`, pots invertir l'ordre del títol del lloc i el títol de la pàgina a la pestanya del navegador. Per exemple, l'etiqueta del títol de la secció del blog es convertiria en «Blog • ~/ben».
 
 ---
 

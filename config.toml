@@ -1,5 +1,5 @@
 base_url = "https://welpo.github.io/tabi"
-title = "~/tabi"
+title = "~/ben"
 description = "tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score."
 author = "welpo"
 generate_feed = true
@@ -24,7 +24,7 @@ smart_punctuation = true
 internal_level = "warn"
 
 [languages.es]
-title = "~/tabi"
+title = "~/ben"
 description = "tabi es un tema de Zola rápido, liviano y moderno con JavaScript opcional y una puntuación perfecta en Lighthouse."
 generate_feed = true
 compile_sass = true
@@ -32,7 +32,7 @@ minify_html = true
 taxonomies = [{name = "tags", feed = true}]
 
 [languages.ca]
-title = "~/tabi"
+title = "~/ben"
 description = "tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse."
 generate_feed = true
 compile_sass = true
@@ -133,7 +133,7 @@ short_date_format = ""
 separator = "•"
 
 # Invert the order of the site title and page title in the browser tab.
-# Example: true => "Blog • ~/tabi", false => "~/tabi • Blog"
+# Example: true => "Blog • ~/ben", false => "~/ben • Blog"
 invert_title_order = false
 
 # Full path after the base URL required. So if you were to place it in "static" it would be "/favicon.png"

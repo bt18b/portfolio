@@ -47,7 +47,7 @@ Por ejemplo, si deseas que el idioma principal sea el Chino, simplemente añade 
 
 ```toml, hl_lines=03
 base_url = "https://welpo.github.io/tabi"
-title = "~/tabi"
+title = "~/ben"
 default_language = "zh"
 ```
 

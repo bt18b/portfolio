@@ -53,7 +53,7 @@ To set the image and title, you can use the `header` variable in the front matte
 
 ```toml
 [extra]
-header = {title = "Hello! I'm tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
+header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
 ```
 
 The description is regular Markdown content, set outside the front matter.
@@ -68,7 +68,7 @@ template = "section.html"
 paginate_by = 5
 
 [extra]
-header = {title = "Hello! I'm tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
+header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
 ```
 
 If you'd rather serve the posts from `/blog`, you can set `section_path = "/blog"` in the `[extra]` section. This is the setup or this demo:
@@ -79,7 +79,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Hello! I'm tabi~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
+header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
 section_path = "blog/_index.md"
 max_posts = 4
 ```
@@ -605,9 +605,9 @@ The default separator is a bullet point (`•`), but you can change by setting s
 |:----:|:-------:|:-------------:|:-----------------:|:-------------------:|
 |  ❌  |   ❌    |      ✅       |         ❌        |         ❌          |
 
-The title tag is the text that appears in the browser tab. By default, it's the site title followed by the page title. For example, the title tag of the blog section is "~/tabi • Blog".
+The title tag is the text that appears in the browser tab. By default, it's the site title followed by the page title. For example, the title tag of the blog section is "~/ben • Blog".
 
-By setting `invert_title_order = true`, you can invert the order of the site title and page title in the browser tab. For example, the title tag of the blog section would become "Blog • ~/tabi".
+By setting `invert_title_order = true`, you can invert the order of the site title and page title in the browser tab. For example, the title tag of the blog section would become "Blog • ~/ben".
 
 ---
 
