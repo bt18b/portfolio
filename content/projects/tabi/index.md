@@ -17,33 +17,33 @@ social_media_card = "social_cards/projects_tabi.jpg"
 
 ## Features
 
-- [Set any language as default](https://welpo.github.io/tabi/blog/faq-languages/#how-do-i-set-a-default-language-for-my-site). Set your base site to Chinese, Spanish, French, Hindi… or any [other supported language](/i18n). The theme's interface will be translated accordingly.
-- [Integration with remote repositories](https://welpo.github.io/tabi/mastering-tabi-settings/#git-repository-integration) on GitHub, GitLab, Gitea & Codeberg for commit history and showing the site source.
+- [Set any language as default](https://ben-tannheimer.ch/tabi/blog/faq-languages/#how-do-i-set-a-default-language-for-my-site). Set your base site to Chinese, Spanish, French, Hindi… or any [other supported language](/i18n). The theme's interface will be translated accordingly.
+- [Integration with remote repositories](https://ben-tannheimer.ch/tabi/mastering-tabi-settings/#git-repository-integration) on GitHub, GitLab, Gitea & Codeberg for commit history and showing the site source.
 - Dark and light themes. Defaults to the OS setting, with a switcher in the navigation bar.
-- Thorough documentation. See [Mastering tabi Settings: A Comprehensive Guide](https://welpo.github.io/tabi/blog/mastering-tabi-settings/).
+- Thorough documentation. See [Mastering tabi Settings: A Comprehensive Guide](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/).
 - Perfect Lighthouse score (Performance, Accessibility, Best Practices and SEO).
-- [Comprehensive multi-language support](https://welpo.github.io/tabi/blog/faq-languages/#how-does-tabi-handle-multilingual-support). Add as many languages as you wish.
-- Support for [comments using giscus, utterances, Hyvor Talk, or Isso](https://welpo.github.io/tabi/blog/comments/).
+- [Comprehensive multi-language support](https://ben-tannheimer.ch/tabi/blog/faq-languages/#how-does-tabi-handle-multilingual-support). Add as many languages as you wish.
+- Support for [comments using giscus, utterances, Hyvor Talk, or Isso](https://ben-tannheimer.ch/tabi/blog/comments/).
 - Code syntax highlighting with colours based on [Catppuccin](https://github.com/catppuccin/catppuccin) Frappé.
 - [KaTeX](https://katex.org/) support for mathematical notation.
-- [Mail encoding](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#encoded-email) for spam protection.
-- All JavaScript can be [fully disabled](https://welpo.github.io/tabi/blog/javascript/).
-- [Customizable Table of Contents](https://welpo.github.io/tabi/blog/toc/).
-- [Customizable secure headers](https://welpo.github.io/tabi/blog/security/).
-- [Copy button for code blocks](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#copy-button-on-code-blocks).
-- [Quick navigation buttons](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#quick-navigation-buttons).
-- [Custom copyright notice](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#copyright).
-- [Custom canonical URLs](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#canonical-url).
-- [Customizable skins](https://welpo.github.io/tabi/blog/customise-tabi/).
-- [Custom shortcodes](https://welpo.github.io/tabi/blog/shortcodes/).
-- [Footnote backlinks](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#footnote-backlinks).
-- [Social media cards](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#social-media-cards).
+- [Mail encoding](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#encoded-email) for spam protection.
+- All JavaScript can be [fully disabled](https://ben-tannheimer.ch/tabi/blog/javascript/).
+- [Customizable Table of Contents](https://ben-tannheimer.ch/tabi/blog/toc/).
+- [Customizable secure headers](https://ben-tannheimer.ch/tabi/blog/security/).
+- [Copy button for code blocks](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#copy-button-on-code-blocks).
+- [Quick navigation buttons](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#quick-navigation-buttons).
+- [Custom copyright notice](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#copyright).
+- [Custom canonical URLs](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#canonical-url).
+- [Customizable skins](https://ben-tannheimer.ch/tabi/blog/customise-tabi/).
+- [Custom shortcodes](https://ben-tannheimer.ch/tabi/blog/shortcodes/).
+- [Footnote backlinks](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#footnote-backlinks).
+- [Social media cards](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#social-media-cards).
 - Responsive design.
-- [Projects page](https://welpo.github.io/tabi/projects/).
-- [Archive page](https://welpo.github.io/tabi/archive/).
-- [Stylized feed](https://welpo.github.io/tabi/atom.xml).
-- [Social links](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#social-media-icons).
-- [Tags](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#tags).
+- [Projects page](https://ben-tannheimer.ch/tabi/projects/).
+- [Archive page](https://ben-tannheimer.ch/tabi/archive/).
+- [Stylized feed](https://ben-tannheimer.ch/tabi/atom.xml).
+- [Social links](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#social-media-icons).
+- [Tags](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#tags).
 
 ## Development Practices
 

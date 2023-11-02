@@ -57,21 +57,21 @@ and = "और"
 site_source = "साइट का स्रोत"
 
 # 404 error.
-# https://welpo.github.io/tabi/404.html
+# https://ben-tannheimer.ch/tabi/404.html
 page_missing = "आपके द्वारा अनुरोधित पृष्ठ मौजूद नहीं है"
 translation_missing = "या फिर आपकी भाषा में अनुवाद नहीं किया गया है"
 check_url = "URL में त्रुटियों की जांच करें या"
 go_home = "मुख्य पृष्ठ पर वापस जाएं"
 
 # For multilingual quote shortcode.
-# https://welpo.github.io/tabi/blog/shortcodes/#multilingual-quotes
+# https://ben-tannheimer.ch/tabi/blog/shortcodes/#multilingual-quotes
 show_original_quote = "मौलिक उद्धरण दिखाएं"
 show_translation = "अनुवाद दिखाएं"
 open_quotation_mark = "“"
 close_quotation_mark = "”"
 
 # Translations for stylised Atom feed.
-# https://welpo.github.io/tabi/atom.xml
+# https://ben-tannheimer.ch/tabi/atom.xml
 # Must contain "About Feeds"; it will become a link.
 about_feeds = "यह एक वेब फ़ीड है, जिसे एटम फ़ीड भी कहा जाता है। अपने न्यूज़रीडर में एड्रेस बार से URL कॉपी करके सब्सक्राइब करें। About Feeds पर जाकर और अधिक जानकारी प्राप्त करें और शुरू करें। यह सेवा मुफ़्त है।"
 visit_the_site = "वेबसाइट पर जाएं"

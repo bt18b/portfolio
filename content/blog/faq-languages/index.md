@@ -46,7 +46,7 @@ You can set the default language for your site by defining the `default_language
 For instance, if you want (Simplified) Chinese to be the primary language, simply add this line to  `config.toml`:
 
 ```toml, hl_lines=03
-base_url = "https://welpo.github.io/tabi"
+base_url = "https://ben-tannheimer.ch/tabi"
 title = "~/ben"
 default_language = "zh"
 ```
@@ -65,7 +65,7 @@ If a specific page is not available in a language, tabi will display a 404 page 
 
 > The page you've requested seems to be missing or hasn't been translated into your language yet. Check the URL for errors or go back to the homepage.
 
-This text will be shown once for each language enabled on your site. You can see this page in action [here](https://welpo.github.io/tabi/404.html).
+This text will be shown once for each language enabled on your site. You can see this page in action [here](https://ben-tannheimer.ch/tabi/404.html).
 
 ## How do I enable multilingual support?
 

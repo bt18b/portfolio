@@ -12,11 +12,11 @@ Welcome to the demo of [**tabi**](https://github.com/welpo/tabi), a theme for [Z
 
 **tabi** is the creation of Óscar Fernández ([welpo](https://github.com/welpo/) on GitHub), initially designed for [his personal site](https://osc.garden/). It is a feature-rich, modern theme that provides sane (and safe) defaults.
 
-Looking for detailed instructions or tips on using **tabi**? The [blog](https://welpo.github.io/tabi/blog/) and [archive](https://welpo.github.io/tabi/archive/) sections feature the theme's documentation, offering a variety of articles from feature overviews to step-by-step guides.
+Looking for detailed instructions or tips on using **tabi**? The [blog](https://ben-tannheimer.ch/tabi/blog/) and [archive](https://ben-tannheimer.ch/tabi/archive/) sections feature the theme's documentation, offering a variety of articles from feature overviews to step-by-step guides.
 
 ## Features
 
-**tabi** supports [multiple languages](https://welpo.github.io/tabi/blog/faq-languages/), [customisable appearance](https://welpo.github.io/tabi/blog/customise-tabi/), [comment integrations](https://welpo.github.io/tabi/blog/comments/), and much more, all with an emphasis on performance ([all JavaScript is optional](https://welpo.github.io/tabi/blog/javascript/)) and [security](https://welpo.github.io/tabi/blog/security/).
+**tabi** supports [multiple languages](https://ben-tannheimer.ch/tabi/blog/faq-languages/), [customisable appearance](https://ben-tannheimer.ch/tabi/blog/customise-tabi/), [comment integrations](https://ben-tannheimer.ch/tabi/blog/comments/), and much more, all with an emphasis on performance ([all JavaScript is optional](https://ben-tannheimer.ch/tabi/blog/javascript/)) and [security](https://ben-tannheimer.ch/tabi/blog/security/).
 
 ## Contributing
 

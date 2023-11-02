@@ -575,7 +575,7 @@ You can enable or hide the reading time of a post with `show_reading_time`. If y
 
 {{ dual_theme_image(light_src="blog/mastering-tabi-settings/img/see_changes_light.webp", dark_src="blog/mastering-tabi-settings/img/see_changes_dark.webp" alt="Post title and metadata, showing a 'See changes' link") }}
 
-Since it follows [the hierarchy](#settings-hierarchy), you can enable it or hide it for specific pages or sections. For example, this demo sets `show_reading_time = false` in the [projects](https://welpo.github.io/tabi/projects/) section's [`_index.md`](https://github.com/welpo/tabi/blob/main/content/projects/_index.md?plain=1), so their individual posts don't show the reading time.
+Since it follows [the hierarchy](#settings-hierarchy), you can enable it or hide it for specific pages or sections. For example, this demo sets `show_reading_time = false` in the [projects](https://ben-tannheimer.ch/tabi/projects/) section's [`_index.md`](https://github.com/welpo/tabi/blob/main/content/projects/_index.md?plain=1), so their individual posts don't show the reading time.
 
 ### Date Format
 

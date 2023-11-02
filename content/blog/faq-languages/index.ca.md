@@ -46,7 +46,7 @@ Pots definir la llengua principal del teu lloc configurant la variable `default_
 Per exemple, si vols que la llengua principal sigui el Xinès, simplement afegeix aquesta línia a l'arxiu `config.toml`:
 
 ```toml, hl_lines=03
-base_url = "https://welpo.github.io/tabi"
+base_url = "https://ben-tannheimer.ch/tabi"
 title = "~/ben"
 default_language = "zh"
 ```
@@ -65,7 +65,7 @@ Si una pàgina específica no està disponible en una llengua, tabi mostrarà un
 
 > La pàgina que has sol·licitat sembla que no existeix o encara no s'ha traduït al teu idioma. Comprova l'URL per detectar errors o torna a la pàgina d'inici.
 
-Aquest text es mostrarà una vegada per cada llengua activada en el teu lloc. Pots veure aquesta pàgina en acció [aquí](https://welpo.github.io/tabi/404.html).
+Aquest text es mostrarà una vegada per cada llengua activada en el teu lloc. Pots veure aquesta pàgina en acció [aquí](https://ben-tannheimer.ch/tabi/404.html).
 
 ## Com activo el suport multilingüe?
 

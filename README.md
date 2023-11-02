@@ -2,7 +2,7 @@
 
 A fast, lightweight, and modern [Zola](https://www.getzola.org) theme with multi-language support. It aims to be a personal page and home to blog posts.
 
-See a live preview (and the theme's documentation) [here](https://welpo.github.io/tabi).
+See a live preview (and the theme's documentation) [here](https://ben-tannheimer.ch/tabi).
 
 Explore the [Sites Using tabi section](#sites-using-tabi) to see real-world applications.
 
@@ -16,33 +16,33 @@ tabi has a perfect score on Google's Lighthouse audit:
 
 ## Features
 
-- [X] [Set any language as default](https://welpo.github.io/tabi/blog/faq-languages/#how-do-i-set-a-default-language-for-my-site). Set your base site to Chinese, Spanish, French, Hindi… or any [other supported language](/i18n). The theme's interface will be translated accordingly.
-- [X] [Integration with remote repositories](https://welpo.github.io/tabi/mastering-tabi-settings/#git-repository-integration) on GitHub, GitLab, Gitea & Codeberg for commit history and showing the site source.
+- [X] [Set any language as default](https://ben-tannheimer.ch/tabi/blog/faq-languages/#how-do-i-set-a-default-language-for-my-site). Set your base site to Chinese, Spanish, French, Hindi… or any [other supported language](/i18n). The theme's interface will be translated accordingly.
+- [X] [Integration with remote repositories](https://ben-tannheimer.ch/tabi/mastering-tabi-settings/#git-repository-integration) on GitHub, GitLab, Gitea & Codeberg for commit history and showing the site source.
 - [X] Dark and light themes. Defaults to the OS setting, with a switcher in the navigation bar.
-- [X] Thorough documentation. See [Mastering tabi Settings: A Comprehensive Guide](https://welpo.github.io/tabi/blog/mastering-tabi-settings/).
+- [X] Thorough documentation. See [Mastering tabi Settings: A Comprehensive Guide](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/).
 - [X] Perfect Lighthouse score (Performance, Accessibility, Best Practices and SEO).
-- [X] [Comprehensive multi-language support](https://welpo.github.io/tabi/blog/faq-languages/#how-does-tabi-handle-multilingual-support). Add as many languages as you wish.
-- [X] Support for [comments using giscus, utterances, Hyvor Talk, or Isso](https://welpo.github.io/tabi/blog/comments/).
+- [X] [Comprehensive multi-language support](https://ben-tannheimer.ch/tabi/blog/faq-languages/#how-does-tabi-handle-multilingual-support). Add as many languages as you wish.
+- [X] Support for [comments using giscus, utterances, Hyvor Talk, or Isso](https://ben-tannheimer.ch/tabi/blog/comments/).
 - [X] Code syntax highlighting with colours based on [Catppuccin](https://github.com/catppuccin/catppuccin) Frappé.
 - [X] [KaTeX](https://katex.org/) support for mathematical notation.
-- [X] [Mail encoding](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#encoded-email) for spam protection.
-- [X] All JavaScript can be [fully disabled](https://welpo.github.io/tabi/blog/javascript/).
-- [X] [Customizable Table of Contents](https://welpo.github.io/tabi/blog/toc/).
-- [X] [Customizable secure headers](https://welpo.github.io/tabi/blog/security/).
-- [X] [Copy button for code blocks](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#copy-button-on-code-blocks).
-- [X] [Quick navigation buttons](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#quick-navigation-buttons).
-- [X] [Custom copyright notice](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#copyright).
-- [X] [Custom canonical URLs](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#canonical-url).
-- [X] [Customizable skins](https://welpo.github.io/tabi/blog/customise-tabi/).
-- [X] [Custom shortcodes](https://welpo.github.io/tabi/blog/shortcodes/).
-- [X] [Footnote backlinks](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#footnote-backlinks).
-- [X] [Social media cards](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#social-media-cards).
+- [X] [Mail encoding](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#encoded-email) for spam protection.
+- [X] All JavaScript can be [fully disabled](https://ben-tannheimer.ch/tabi/blog/javascript/).
+- [X] [Customizable Table of Contents](https://ben-tannheimer.ch/tabi/blog/toc/).
+- [X] [Customizable secure headers](https://ben-tannheimer.ch/tabi/blog/security/).
+- [X] [Copy button for code blocks](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#copy-button-on-code-blocks).
+- [X] [Quick navigation buttons](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#quick-navigation-buttons).
+- [X] [Custom copyright notice](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#copyright).
+- [X] [Custom canonical URLs](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#canonical-url).
+- [X] [Customizable skins](https://ben-tannheimer.ch/tabi/blog/customise-tabi/).
+- [X] [Custom shortcodes](https://ben-tannheimer.ch/tabi/blog/shortcodes/).
+- [X] [Footnote backlinks](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#footnote-backlinks).
+- [X] [Social media cards](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#social-media-cards).
 - [X] Responsive design.
-- [X] [Projects page](https://welpo.github.io/tabi/projects/).
-- [X] [Archive page](https://welpo.github.io/tabi/archive/).
-- [X] [Stylized feed](https://welpo.github.io/tabi/atom.xml).
-- [X] [Social links](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#social-media-icons).
-- [X] [Tags](https://welpo.github.io/tabi/blog/mastering-tabi-settings/#tags).
+- [X] [Projects page](https://ben-tannheimer.ch/tabi/projects/).
+- [X] [Archive page](https://ben-tannheimer.ch/tabi/archive/).
+- [X] [Stylized feed](https://ben-tannheimer.ch/tabi/atom.xml).
+- [X] [Social links](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#social-media-icons).
+- [X] [Tags](https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#tags).
 
 ## Quick start
 
@@ -132,7 +132,7 @@ The same is true for individual posts, which should have the exact same name as 
 
 This configuration allows the language switcher to take the user to the translation of the current URL. If a translation doesn't exist, the 404 page will be displayed, with an explanation in each language set in the config.
 
-To learn more about multilingual support, see the [Frequently Asked Questions](https://welpo.github.io/tabi/blog/faq-languages/).
+To learn more about multilingual support, see the [Frequently Asked Questions](https://ben-tannheimer.ch/tabi/blog/faq-languages/).
 
 ## Sites Using tabi
 

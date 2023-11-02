@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="https://welpo.github.io/tabi/feed_style.xsl" type="text/xsl"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="ca" xml:base="https:&#x2F;&#x2F;welpo.github.io&#x2F;tabi">
+<?xml-stylesheet href="https://ben-tannheimer.ch/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="ca" xml:base="https:&#x2F;&#x2F;ben-tannheimer.ch">
     <str:translations xmlns:str="https://github.com/welpo/tabi">
         <str:about_feeds>Aquest és un canal web, també conegut com a canal Atom. Subscriu-te copiant l'URL de la barra d'adreces al teu lector de notícies. Visita About Feeds per aprendre més i començar. És gratuït.</str:about_feeds>
         <str:visit_the_site>Visita la web</str:visit_the_site>
         <str:recent_posts>Publicacions recents</str:recent_posts>
     </str:translations><title>~/ben</title>
         <subtitle>tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse.</subtitle>
-    <link href="https://welpo.github.io/tabi/ca/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://welpo.github.io/tabi/ca/"/>
+    <link href="https://ben-tannheimer.ch/ca/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://ben-tannheimer.ch/ca/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-10-31T00:00:00+00:00</updated>
-    <id>https://welpo.github.io/tabi/ca/atom.xml</id>
+    <id>https://ben-tannheimer.ch/ca/atom.xml</id>
     <entry xml:lang="ca">
         <title>Política de privacitat</title>
         <published>2023-10-31T00:00:00+00:00</published>
@@ -19,8 +19,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/privacy/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/privacy/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/privacy/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/privacy/</id>
         </entry>
     <entry xml:lang="ca">
         <title>Domina la configuració de tabi: guia completa</title>
@@ -29,8 +29,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/mastering-tabi-settings/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/mastering-tabi-settings/</id>
         <summary type="html">Descobreix les múltiples maneres en què pots personalitzar tabi.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -40,8 +40,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/faq-languages/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/faq-languages/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/faq-languages/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/faq-languages/</id>
         <summary type="html">Descobreix com tabi t&#x27;ajuda a connectar amb una audiència global gràcies a les seves funcions multilingües. Aprèn a canviar la llengua per defecte, afegir més llengües i aportar les teves pròpies traduccions.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -51,8 +51,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/customise-tabi/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/customise-tabi/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/customise-tabi/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/customise-tabi/</id>
         <summary type="html">Aprèn a personalitzar tabi fent servir skins i establint un tema per defecte, aconseguint un aspecte únic.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -62,8 +62,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/comments/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/comments/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/comments/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/comments/</id>
         <summary type="html">Descobreix com habilitar una secció de comentaris a les teves publicacions utilitzant giscus, utterances, Hyvor Talk, o Isso, permetent la interacció i feedback dels lectors.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -73,8 +73,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/custom-font-subset/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/custom-font-subset/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/custom-font-subset/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/custom-font-subset/</id>
         <summary type="html">Aprèn com crear un subconjunt personalitzat que només inclogui els glifs necessaris.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -84,8 +84,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/security/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/security/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/security/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/security/</id>
         <summary type="html">tabi té una Política de Seguretat de Contingut (CSP) fàcilment personalitzable amb valors segurs per defecte. Obtingues tranquil·litat i un A+ en l&#x27;Observatori de Mozilla.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -95,8 +95,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/shortcodes/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/shortcodes/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/shortcodes/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/shortcodes/</id>
         <summary type="html">Aquest tema inclou alguns shortcodes personalitzats útils que pots utilitzar per millorar les teves publicacions. Ja sigui per mostrar imatges que s&#x27;adapten als temes clar i fosc, o per donar format a una secció de referències amb un aspecte professional, aquests shortcodes personalitzats t&#x27;ajudaran.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -106,8 +106,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/markdown/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/markdown/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/markdown/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/markdown/</id>
         <summary type="html">Aquesta publicació mostra alguns exemples de format en Markdown, incloent-hi una taula, blocs de codi i etiquetes, citacions, taules i notes a peu de pàgina.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -117,8 +117,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/javascript/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/javascript/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/javascript/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/javascript/</id>
         <summary type="html">JavaScript només s&#x27;utilitza quan HTML i CSS no són suficients.</summary>
         </entry>
     <entry xml:lang="ca">
@@ -128,8 +128,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/ca/blog/toc/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/ca/blog/toc/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/ca/blog/toc/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/ca/blog/toc/</id>
         <summary type="html">Una publicació que mostra la taula de contingut opcional i la seva configuració.</summary>
         </entry>
 </feed>

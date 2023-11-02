@@ -571,7 +571,7 @@ Puedes activar o desactivar el tiempo estimado de lectura de un artículo con `s
 
 {{ dual_theme_image(light_src="blog/mastering-tabi-settings/img/see_changes_light.webp", dark_src="blog/mastering-tabi-settings/img/see_changes_dark.webp" alt="Título del artículo y metadatos, mostrando un enlace «Ver cambios»") }}
 
-Dado que sigue [la jerarquía](#jerarquia-de-configuracion), puedes activarlo o desactivarlo para páginas o secciones específicas. Por ejemplo, esta demo desactiva `show_reading_time = false` en la sección [proyectos](https://welpo.github.io/tabi/es/projects/) en el archivo [`_index.md`](https://github.com/welpo/tabi/blob/main/content/projects/_index.es.md?plain=1), por lo que sus publicaciones individuales no muestran el tiempo de lectura.
+Dado que sigue [la jerarquía](#jerarquia-de-configuracion), puedes activarlo o desactivarlo para páginas o secciones específicas. Por ejemplo, esta demo desactiva `show_reading_time = false` en la sección [proyectos](https://ben-tannheimer.ch/tabi/es/projects/) en el archivo [`_index.md`](https://github.com/welpo/tabi/blob/main/content/projects/_index.es.md?plain=1), por lo que sus publicaciones individuales no muestran el tiempo de lectura.
 
 ### Formato de fecha
 

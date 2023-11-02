@@ -17,32 +17,32 @@ social_media_card = "social_cards/ca_projects_tabi.jpg"
 
 ## Característiques
 
-- [Estableix qualsevol idioma com a predeterminat](https://welpo.github.io/tabi/ca/blog/faq-languages/#com-estableixo-la-llengua-predeterminada-del-meu-lloc). Configura el teu lloc en xinès, espanyol, francès, hindi… o qualsevol [altre idioma compatible](https://github.com/welpo/tabi/tree/main/i18n). La interfície del tema es traduirà en conseqüència.
-- [Integració amb repositoris remots](https://welpo.github.io/tabi/ca/mastering-tabi-settings/#integracio-amb-repositoris-git) a GitHub, GitLab, Gitea i Codeberg per a l'historial de commits i mostrar el codi font del lloc.
+- [Estableix qualsevol idioma com a predeterminat](https://ben-tannheimer.ch/tabi/ca/blog/faq-languages/#com-estableixo-la-llengua-predeterminada-del-meu-lloc). Configura el teu lloc en xinès, espanyol, francès, hindi… o qualsevol [altre idioma compatible](https://github.com/welpo/tabi/tree/main/i18n). La interfície del tema es traduirà en conseqüència.
+- [Integració amb repositoris remots](https://ben-tannheimer.ch/tabi/ca/mastering-tabi-settings/#integracio-amb-repositoris-git) a GitHub, GitLab, Gitea i Codeberg per a l'historial de commits i mostrar el codi font del lloc.
 - Temes clars i foscos. S'adapta a la configuració del sistema operatiu, amb un interruptor a la barra de navegació.
-- [Suport multilingüe complet](https://welpo.github.io/tabi/ca/blog/faq-languages/#com-gestiona-tabi-el-suport-multilingue). Afegeix tants idiomes com vulguis i deixa que els teus usuaris triin amb el selector d'idioma.
+- [Suport multilingüe complet](https://ben-tannheimer.ch/tabi/ca/blog/faq-languages/#com-gestiona-tabi-el-suport-multilingue). Afegeix tants idiomes com vulguis i deixa que els teus usuaris triin amb el selector d'idioma.
 - Puntuació perfecta en Lighthouse (Rendiment, Accessibilitat, Millors Pràctiques i SEO).
 - Ressaltat de sintaxi de codi amb colors basats en [Catppuccin](https://github.com/catppuccin/catppuccin) Frappé.
-- Suport per a [comentaris usant giscus, utterances, Hyvor Talk o Isso](https://welpo.github.io/tabi/ca/blog/comments/).
-- Tot el JavaScript es pot [deshabilitar completament](https://welpo.github.io/tabi/ca/blog/javascript/).
-- [Codificació de correu](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#correu-electronic-codificat) per a protecció contra spam.
-- [Capçaleres de seguretat personalitzables](https://welpo.github.io/tabi/ca/blog/security/).
-- [Enllaços de retrocés per a notes al peu](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#enllacos-de-retorn-a-les-notes-a-peu-de-pagina).
-- [Taula de continguts personalitzable](https://welpo.github.io/tabi/ca/blog/toc/).
-- [Avís de drets d'autor personalitzat](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#copyright).
-- [Botó de copiar per a blocs de codi](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#boto-de-copiar-en-blocs-de-codi).
-- [URL canòniques personalitzables](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#url-canonica).
-- [Targetes per a xarxes socials](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#targetes-per-a-xarxes-socials).
-- [Botons de navegació ràpida](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#botons-de-navegacio-rapida).
-- [Shortcodes personalitzats](https://welpo.github.io/tabi/ca/blog/shortcodes/).
-- [Skins personalitzables](https://welpo.github.io/tabi/ca/blog/customise-tabi/).
-- [Pàgina de projectes](https://welpo.github.io/tabi/ca/projects/).
+- Suport per a [comentaris usant giscus, utterances, Hyvor Talk o Isso](https://ben-tannheimer.ch/tabi/ca/blog/comments/).
+- Tot el JavaScript es pot [deshabilitar completament](https://ben-tannheimer.ch/tabi/ca/blog/javascript/).
+- [Codificació de correu](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#correu-electronic-codificat) per a protecció contra spam.
+- [Capçaleres de seguretat personalitzables](https://ben-tannheimer.ch/tabi/ca/blog/security/).
+- [Enllaços de retrocés per a notes al peu](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#enllacos-de-retorn-a-les-notes-a-peu-de-pagina).
+- [Taula de continguts personalitzable](https://ben-tannheimer.ch/tabi/ca/blog/toc/).
+- [Avís de drets d'autor personalitzat](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#copyright).
+- [Botó de copiar per a blocs de codi](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#boto-de-copiar-en-blocs-de-codi).
+- [URL canòniques personalitzables](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#url-canonica).
+- [Targetes per a xarxes socials](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#targetes-per-a-xarxes-socials).
+- [Botons de navegació ràpida](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#botons-de-navegacio-rapida).
+- [Shortcodes personalitzats](https://ben-tannheimer.ch/tabi/ca/blog/shortcodes/).
+- [Skins personalitzables](https://ben-tannheimer.ch/tabi/ca/blog/customise-tabi/).
+- [Pàgina de projectes](https://ben-tannheimer.ch/tabi/ca/projects/).
 - Disseny responsive.
 - Suport de [KaTeX](https://katex.org/).
-- [Enllaços socials](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#icones-de-xarxes-socials).
-- [Pàgina d'arxiu](https://welpo.github.io/tabi/ca/archive/).
-- [Feed estilitzat](https://welpo.github.io/tabi/ca/atom.xml).
-- [Etiquetes](https://welpo.github.io/tabi/ca/blog/mastering-tabi-settings/#etiquetes).
+- [Enllaços socials](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#icones-de-xarxes-socials).
+- [Pàgina d'arxiu](https://ben-tannheimer.ch/tabi/ca/archive/).
+- [Feed estilitzat](https://ben-tannheimer.ch/tabi/ca/atom.xml).
+- [Etiquetes](https://ben-tannheimer.ch/tabi/ca/blog/mastering-tabi-settings/#etiquetes).
 
 ## Pràctiques de desenvolupament
 

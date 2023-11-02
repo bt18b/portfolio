@@ -7,7 +7,7 @@ homepage = "https://github.com/welpo/tabi"
 min_version = "0.17.0"
 
 # An optional live demo URL
-demo = "https://welpo.github.io/tabi"
+demo = "https://ben-tannheimer.ch/tabi"
 
 # The theme author info: you!
 [author]
@@ -20,7 +20,7 @@ homepage = "https://osc.garden"
 # Use snake_casing to be consistent with the rest of Zola
 [extra]
 # Check out the documentation (or the comments below) to learn how to customise tabi:
-# https://welpo.github.io/tabi/blog/mastering-tabi-settings/
+# https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/
 
 # Enable JavaScript theme toggler to allow users to switch between dark/light mode.
 # Also enables automatic switching based on user's OS-level theme settings.
@@ -35,7 +35,7 @@ default_theme = "light"
 
 # Choose the colourscheme (skin) for the theme. Default is "teal".
 # Skin available: blue, lavender, mint, red, sakura, teal, monochrome, lowcontrast_orange, lowcontrast_peach, lowcontrast_pink, indigo_ingot, evangelion
-# See them live and learn how to create your own: https://welpo.github.io/tabi/blog/customise-tabi/#skins
+# See them live and learn how to create your own: https://ben-tannheimer.ch/tabi/blog/customise-tabi/#skins
 # WARNING! "lowcontrast" skins, while aesthetically pleasing, may not provide optimal
 # contrast (in light theme) for readability and might not be suitable for all users.
 # Furthermore, low contrasting elements will affect your Google Lighthouse rating.
@@ -70,34 +70,34 @@ remote_repository_git_platform = "auto"  # Defaults to "auto".
 # Branch in the repo hosting the Zola site.
 remote_repository_branch = "main"  # Defaults to "main".
 # Show a link to the commit history of updated posts, right next to the last updated date.
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 show_remote_changes = true  # Defaults to true.
 # Show a link to the repository of the site, right next to the "Powered by Zola & tabi" text.
 show_remote_source = true  # Defaults to true.
 
 # Add a "copy" button to codeblocks (loads ~700 bytes of JavaScript).
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 copy_button = true
 
 # Show the reading time of a page.
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 show_reading_time = true
 
 # Adds backlinks to footnotes (loads ~500 bytes of JavaScripts).
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 footnote_backlinks = false
 
 # Enable KaTeX for all posts.
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 katex = false
 
 # Quick navigation buttons.
 # Adds "go up" and "go to comments" buttons on the bottom right (hidden for mobile).
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 quick_navigation_buttons = false
 
 # Add a Table of Contents to all posts, right below the title and metadata.
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 # toc = false
 
 # Date format used when listing posts (main page, /blog section, tag posts list…)
@@ -123,7 +123,7 @@ invert_title_order = false
 # favicon_emoji = "🌱"
 
 # Path to the fallback image for social media cards (the preview image shown when sharing a link on WhatsApp, LinkedIn…).
-# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
+# Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
 # Learn how to create these images in batch and automatically:
 # https://osc.garden/blog/automating-social-media-cards-zola/
 # social_media_card = "img/social_cards/index.jpg"
@@ -194,7 +194,7 @@ allowed_domains = [
 # Custom subset of characters for the header.
 # If set to true, the `static/custom_subset.css` file will be loaded first.
 # This avoids a flashing text issue in Firefox.
-# Please see https://welpo.github.io/tabi/blog/custom-font-subset/ to learn how to create this file.
+# Please see https://ben-tannheimer.ch/tabi/blog/custom-font-subset/ to learn how to create this file.
 # custom_subset = true
 
 [extra.analytics]
@@ -217,7 +217,7 @@ allowed_domains = [
 # self_hosted_url = ""
 
 # giscus support for comments. https://giscus.app
-# Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
+# Setup instructions: https://ben-tannheimer.ch/tabi/blog/comments/#setup
 [extra.giscus]
 # enabled_for_all_posts = false  # Enables giscus on all posts. It can be enabled on individual posts by setting `giscus = true` in the [extra] section of a post's front matter.
 # automatic_loading = true  # If set to false, a "Load comments" button will be shown.
@@ -235,7 +235,7 @@ allowed_domains = [
 # lazy_loading = true
 
 # utterances support for comments. https://utteranc.es
-# Setup instructions: https://welpo.github.io/tabi/blog/comments/#setup
+# Setup instructions: https://ben-tannheimer.ch/tabi/blog/comments/#setup
 [extra.utterances]
 # enabled_for_all_posts = false  # Enables utterances on all posts. It can be enabled on individual posts by setting `utterances = true` in the [extra] section of a post's front matter.
 # automatic_loading = true  # If set to false, a "Load comments" button will be shown.

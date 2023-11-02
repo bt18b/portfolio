@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="https://welpo.github.io/tabi/feed_style.xsl" type="text/xsl"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;welpo.github.io&#x2F;tabi">
+<?xml-stylesheet href="https://ben-tannheimer.ch/feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:base="http://purl.org/atompub/base/1.0/" xml:lang="en" xml:base="https:&#x2F;&#x2F;ben-tannheimer.ch">
     <str:translations xmlns:str="https://github.com/welpo/tabi">
         <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
         <str:visit_the_site>Visit website</str:visit_the_site>
         <str:recent_posts>Recent posts</str:recent_posts>
     </str:translations><title>~/ben - showcase</title>
         <subtitle>tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score.</subtitle>
-    <link href="https://welpo.github.io/tabi/tags/showcase/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://welpo.github.io/tabi"/>
+    <link href="https://ben-tannheimer.ch/tags/showcase/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://ben-tannheimer.ch"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-10-27T00:00:00+00:00</updated>
-    <id>https://welpo.github.io/tabi/tags/showcase/atom.xml</id>
+    <id>https://ben-tannheimer.ch/tags/showcase/atom.xml</id>
     <entry xml:lang="en">
         <title>Mastering tabi Settings: A Comprehensive Guide</title>
         <published>2023-09-18T00:00:00+00:00</published>
@@ -19,8 +19,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/mastering-tabi-settings/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/mastering-tabi-settings/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/mastering-tabi-settings/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/mastering-tabi-settings/</id>
         <summary type="html">Discover the many ways you can customise your tabi site.</summary>
         </entry>
     <entry xml:lang="en">
@@ -30,8 +30,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/faq-languages/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/faq-languages/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/faq-languages/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/faq-languages/</id>
         <summary type="html">Master the art of serving a global audience through tabi&#x27;s built-in multilingual features. Learn how to change the default language, add multilingual support, and contribute your own translations.</summary>
         </entry>
     <entry xml:lang="en">
@@ -41,8 +41,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/customise-tabi/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/customise-tabi/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/customise-tabi/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/customise-tabi/</id>
         <summary type="html">Learn how to customise tabi using skins and setting a default theme, making your site uniquely yours.</summary>
         </entry>
     <entry xml:lang="en">
@@ -52,8 +52,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/comments/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/comments/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/comments/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/comments/</id>
         <summary type="html">Discover how to enable a comments section on your posts using giscus, utterances, Hyvor Talk, or Isso, enabling reader interaction and feedback.</summary>
         </entry>
     <entry xml:lang="en">
@@ -63,8 +63,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/custom-font-subset/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/custom-font-subset/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/custom-font-subset/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/custom-font-subset/</id>
         <summary type="html">Learn how to create a custom subset that only includes the necessary glyphs.</summary>
         </entry>
     <entry xml:lang="en">
@@ -74,8 +74,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/security/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/security/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/security/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/security/</id>
         <summary type="html">tabi has an easily customizable Content Security Policy (CSP) with safe defaults. Get peace of mind and an A+ on Mozilla Observatory.</summary>
         </entry>
     <entry xml:lang="en">
@@ -85,8 +85,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/shortcodes/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/shortcodes/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/shortcodes/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/shortcodes/</id>
         <summary type="html">This theme includes some useful custom shortcodes that you can use to enhance your posts. Whether you want to display images that adapt to light and dark themes, or format a professional-looking reference section, these custom shortcodes have got you covered.</summary>
         </entry>
     <entry xml:lang="en">
@@ -96,8 +96,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/markdown/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/markdown/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/markdown/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/markdown/</id>
         <summary type="html">This post showcases some examples of Markdown formatting, including a table, code blocks and tags, quotes, tables, and footnotes.</summary>
         </entry>
     <entry xml:lang="en">
@@ -107,8 +107,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/javascript/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/javascript/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/javascript/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/javascript/</id>
         <summary type="html">JavaScript is only used when HTML and CSS aren&#x27;t enough.</summary>
         </entry>
     <entry xml:lang="en">
@@ -118,8 +118,8 @@
         <author>
             <name>welpo</name>
         </author>
-        <link rel="alternate" href="https://welpo.github.io/tabi/blog/toc/" type="text/html"/>
-        <id>https://welpo.github.io/tabi/blog/toc/</id>
+        <link rel="alternate" href="https://ben-tannheimer.ch/blog/toc/" type="text/html"/>
+        <id>https://ben-tannheimer.ch/blog/toc/</id>
         <summary type="html">A post showcasing the optional Table of Contents and its options.</summary>
         </entry>
 </feed>

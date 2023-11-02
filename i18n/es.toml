@@ -55,21 +55,21 @@ and = "y"
 site_source = "Código del sitio"
 
 # 404 error.
-# https://welpo.github.io/tabi/404.html
+# https://ben-tannheimer.ch/tabi/404.html
 page_missing = "La página que has solicitado parece no existir"
 translation_missing = "o aún no se ha traducido a tu idioma"
 check_url = "Revisa la URL en busca de errores o"
 go_home = "regresa a la página de inicio"
 
 # For multilingual quote shortcode.
-# https://welpo.github.io/tabi/blog/shortcodes/#multilingual-quotes
+# https://ben-tannheimer.ch/tabi/blog/shortcodes/#multilingual-quotes
 show_original_quote = "Mostrar cita original"
 show_translation = "Mostrar traducción"
 open_quotation_mark = "«"
 close_quotation_mark = "»"
 
 # Translations for stylised Atom feed.
-# https://welpo.github.io/tabi/atom.xml
+# https://ben-tannheimer.ch/tabi/atom.xml
 # Must contain "About Feeds"; it will become a link.
 about_feeds = "Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. "
 visit_the_site = "Visita la web"

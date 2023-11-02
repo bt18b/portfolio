@@ -55,21 +55,21 @@ and = "和"
 site_source = "查看原始碼"
 
 # 404 error.
-# https://welpo.github.io/tabi/404.html
+# https://ben-tannheimer.ch/tabi/404.html
 page_missing = "您請求的頁面不存在"
 translation_missing = "或尚未被翻譯成繁體中文"
 check_url = "請檢查網址是否有誤或"
 go_home = "返回首頁"
 
 # For multilingual quote shortcode.
-# https://welpo.github.io/tabi/blog/shortcodes/#multilingual-quotes
+# https://ben-tannheimer.ch/tabi/blog/shortcodes/#multilingual-quotes
 show_original_quote = "顯示原文"
 show_translation = "顯示翻譯"
 open_quotation_mark = "「"
 close_quotation_mark = "」"
 
 # Translations for stylised Atom feed.
-# https://welpo.github.io/tabi/atom.xml
+# https://ben-tannheimer.ch/tabi/atom.xml
 # Must contain "About Feeds"; it will become a link.
 about_feeds = "這是Web Feed，又稱為Atom Feed，把現在的網址複製到新聞閱讀器即可訂閱本站文章。造訪「About Feeds」來了解更多資訊。"
 visit_the_site = "造訪網站"

@@ -61,14 +61,14 @@ check_url = "Controlla l'URL per errori o"
 go_home = "torna alla homepage"
 
 # For multilingual quote shortcode.
-# https://welpo.github.io/tabi/blog/shortcodes/#multilingual-quotes
+# https://ben-tannheimer.ch/tabi/blog/shortcodes/#multilingual-quotes
 show_original_quote = "Mostra citazione originale"
 show_translation = "Mostra traduzione"
 open_quotation_mark = "«"
 close_quotation_mark = "»"
 
 # Translations for stylised Atom feed.
-# https://welpo.github.io/tabi/atom.xml
+# https://ben-tannheimer.ch/tabi/atom.xml
 # Must contain "About Feeds"; it will become a link.
 about_feeds = "Questo è un feed web, noto anche come feed Atom. Iscriviti copiando l'URL dalla barra degli indirizzi nel tuo lettore di notizie. Visita About Feeds per saperne di più e iniziare. È gratuito."
 visit_the_site = "Visita il sito web"

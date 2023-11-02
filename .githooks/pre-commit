@@ -259,7 +259,7 @@ done
 
 #########################################################
 # Run subset_font if config.toml has been modified.     #
-# https://welpo.github.io/tabi/blog/custom-font-subset/ #
+# https://ben-tannheimer.ch/tabi/blog/custom-font-subset/ #
 #########################################################
 if git diff --cached --name-only | grep -q "config.toml"; then
     echo "config.toml modified. Attempting to run subset_font…"
