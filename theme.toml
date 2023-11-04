@@ -11,8 +11,8 @@ demo = "https://ben-tannheimer.ch/tabi"
 
 # The theme author info: you!
 [author]
-name = "Óscar Fernández"
-homepage = "https://osc.garden"
+name = "Ben Tannheimer"
+homepage = "https://ben-tannheimer.ch"
 
 # Any variable there can be overridden in the end user `config.toml`
 # You don't need to prefix variables by the theme name but as this will
@@ -40,7 +40,7 @@ default_theme = "light"
 # contrast (in light theme) for readability and might not be suitable for all users.
 # Furthermore, low contrasting elements will affect your Google Lighthouse rating.
 # All other skins have optimal contrast.
-skin = "evangelion"
+skin = "monochrome"
 
 # Set browser theme colour. Can be a single colour or [light, dark].
 # Note: Bright colors may be ignored in dark mode.
@@ -120,7 +120,7 @@ invert_title_order = false
 
 # Add an emoji here to use it as favicon.
 # Compatibility: https://caniuse.com/link-icon-svg
-# favicon_emoji = "🌱"
+# favicon_emoji = "🔧"
 
 # Path to the fallback image for social media cards (the preview image shown when sharing a link on WhatsApp, LinkedIn…).
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy

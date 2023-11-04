@@ -5,10 +5,12 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "¡Hola! Soy ben~", img = "img/main.webp", img_alt = "Óscar Fernández, el autor de tabi" }
+header = {title = "Hola! Soy ben~", img = "img/main.webp", img_alt = "Ben Tannheimer el propietario de la página web que viendo." }
 section_path = "blog/_index.es.md"
 max_posts = 4
 social_media_card = "social_cards/es.jpg"
 +++
 
-tabi es un tema de [Zola](https://www.getzola.org) rápido, ligero y moderno. Su objetivo es ser una página personal y hogar para publicaciones de blogs. Cuenta con una puntuación perfecta en Lighthouse, diseño responsive, tema oscuro y claro, shortcodes personalizados y mucho más.
+Soy un **informático** actualmente residente en **Suiza, Berna** trabajando en **Swisscom** como parte de mi aprendizaje de informático especializado en desarrollo de aplicaciones. Con experiencia en tecnologías frontend y backend, mis intereses también se extienden a la ciberseguridad.
+
+[→ **Currículum**](/files/resume.pdf)

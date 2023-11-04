@@ -5,10 +5,12 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Óscar Fernández, the theme's author" }
+header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Ben Tannheimer the owner of the website you're looking at." }
 section_path = "blog/_index.md"
 max_posts = 4
 social_media_card = "social_cards/index.jpg"
 +++
 
-tabi is a fast, lightweight, and modern [Zola](https://www.getzola.org) theme. It aims to be a personal page and home to blog posts. It features a perfect Lighthouse score, responsive design, dark and light themes, custom shortcodes, and much more.
+I'm a **computer scientist** currently based in **Switzerland, Berne** working at **Swisscom** as part of my computer scientist apprenticeship specializing in application development. Experienced in both frontend and backend technologies, my interests also extend to cybersecurity.
+
+[→ **Resume**](/files/resume.pdf)

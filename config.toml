@@ -31,14 +31,6 @@ compile_sass = true
 minify_html = true
 taxonomies = [{name = "tags", feed = true}]
 
-[languages.ca]
-title = "~/ben"
-description = "tabi és un tema de Zola ràpid, lleuger i modern amb JavaScript opcional i una puntuació perfecta a Lighthouse."
-generate_feed = true
-compile_sass = true
-minify_html = true
-taxonomies = [{name = "tags", feed = true}]
-
 [extra]
 # Check out the documentation (or the comments below) to learn how to customise tabi:
 # https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/
@@ -61,7 +53,7 @@ default_theme = "light"
 # contrast (in light theme) for readability and might not be suitable for all users.
 # Furthermore, low contrasting elements will affect your Google Lighthouse rating.
 # All other skins have optimal contrast.
-skin = "evangelion"
+skin = "monochrome"
 
 # Set browser theme colour. Can be a single colour or [light, dark].
 # Note: Bright colors may be ignored in dark mode.
@@ -141,7 +133,7 @@ favicon = "img/seedling.png"
 
 # Add an emoji here to use it as favicon.
 # Compatibility: https://caniuse.com/link-icon-svg
-favicon_emoji = "🌱"
+favicon_emoji = "🔧"
 
 # Path to the fallback image for social media cards (the preview image shown when sharing a link on WhatsApp, LinkedIn…).
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://ben-tannheimer.ch/tabi/blog/mastering-tabi-settings/#settings-hierarchy
@@ -167,32 +159,31 @@ full_content_in_feed = false
 # Protect against spambots:
 # 1. Use base64 for email (convert at https://www.base64encode.org/ or `printf 'your@email.com' | base64`).
 # 2. Or, set 'encode_plaintext_email' to true for auto-encoding (only protects on site, not in public repos).
-email = "dGFiaUBvc2MuZ2FyZGVu"
+email = "YmVuLnRhbm5oZWltZXJAcHJvdG9uLm1l"
 # Decoding requires ~400 bytes of JavaScript. If JS is disabled, the email won't be displayed.
 encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 
 # The icons available can be found in "social_icons" in the "static" folder.
+#     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
+#     { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
+#     { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
+#     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
 socials = [
-    { name = "github", url = "https://github.com/welpo/", icon = "github" },
-    { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-    { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
-    { name = "youtube", url = "https://youtube.com/@oskerwyld", icon = "youtube" },
-    { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
+    { name = "github", url = "https://github.com/bt18b", icon = "github" },
 ]
 
 # Extra menu to show on the footer, below socials section.
 footer_menu = [
     {url = "about", name = "about", trailing_slash = true},
-    {url = "privacy", name = "privacy", trailing_slash = true},
-    {url = "https://tabi-stats.osc.garden", name = "site_statistics", trailing_slash = true},
     {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
+#    {url = "https://tabi-stats.osc.garden", name = "site_statistics", trailing_slash = true},
 ]
 
 # Enable a copyright notice for the footer, shown between socials and the "Powered by" text.
 # You can use $CURRENT_YEAR to automatically insert the current year.
 # $SEPARATOR will be replaced by the `separator` variable.
 # Markdown is supported (links, emphasis, etc).
-# copyright = "© $CURRENT_YEAR Your Name $SEPARATOR Unless otherwise noted, the content in this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license."
+# copyright = "© $CURRENT_YEAR Ben Tannheimer" # $SEPARATOR Unless otherwise noted, the content in this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license."
 
 # For multi-language sites, you can set a different copyright for each language.
 # If this is set to true, ensure you have a `copyright` translation for each language.
@@ -235,7 +226,7 @@ service = "goatcounter"
 # For Umami: Base URL like "https://umami.example.com"
 # For Plausible: Base URL like "https://plausible.example.com"
 # Leave this field empty if you're using the service's default hosting.
-self_hosted_url = "https://tabi-stats.osc.garden"
+# self_hosted_url = "https://tabi-stats.osc.garden"
 
 # giscus support for comments. https://giscus.app
 # Setup instructions: https://ben-tannheimer.ch/tabi/blog/comments/#setup
@@ -274,7 +265,7 @@ automatic_loading = true  # If set to false, a "Load comments" button will be sh
 website_id = "1234"
 page_id_is_slug = true  # If true, it will use the post's filename (slug) as id; this is the only way to share comments between languages. If false, it will use the entire url as id.
 lang = ""  # Leave blank to match the page's language.
-page_author = ""  # Email (or base64 encoded email) of the author.
+page_author = "YmVuLnRhbm5oZWltZXJAcHJvdG9uLm1l"  # Email (or base64 encoded email) of the author.
 lazy_loading = true
 
 # Isso support for comments. https://isso-comments.de/
