@@ -1,13 +1,13 @@
 name = "tabi"
 description = "A fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score"
 license = "MIT"
-homepage = "https://github.com/welpo/tabi"
+homepage = "https://ben-tannheimer.ch"
 
 # The minimum version of Zola required
 min_version = "0.17.0"
 
 # An optional live demo URL
-demo = "https://ben-tannheimer.ch/tabi"
+demo = "https://ben-tannheimer.ch"
 
 # The theme author info: you!
 [author]
