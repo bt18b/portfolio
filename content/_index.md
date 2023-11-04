@@ -5,7 +5,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Ben Tannheimer the owner of the website you're looking at." }
+header = {title = "Hello! I'm ben~", img = "img/avatar.png", img_alt = "Ben Tannheimer the owner of the website you're looking at." }
 section_path = "blog/_index.md"
 max_posts = 4
 social_media_card = "social_cards/index.jpg"

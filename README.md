@@ -113,7 +113,7 @@ section_path = "blog/_index.md"
 
 ```
 [extra]
-header = {title = "Hello! I'm ben~", img = "img/main.webp", img_alt = "Your Name" }
+header = {title = "Hello! I'm ben~", img = "img/avatar.png", img_alt = "Your Name" }
 ```
 
 The content outside the front matter will be rendered between the header title and the posts listing. In the screenshot above, it's the text that reads "tabi is a fast, lightweight, and modern Zola theme…".
