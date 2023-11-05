@@ -13,11 +13,11 @@
         <loc>https://ben-tannheimer.ch/blog/</loc>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/blog/page/1/</loc>
+        <loc>https://ben-tannheimer.ch/blog/deployment/</loc>
+        <lastmod>2023-11-05</lastmod>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/blog/post/</loc>
-        <lastmod>2023-09-29</lastmod>
+        <loc>https://ben-tannheimer.ch/blog/page/1/</loc>
     </url>
     <url>
         <loc>https://ben-tannheimer.ch/es/</loc>
@@ -32,11 +32,11 @@
         <loc>https://ben-tannheimer.ch/es/blog/</loc>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/es/blog/page/1/</loc>
+        <loc>https://ben-tannheimer.ch/es/blog/deployment/</loc>
+        <lastmod>2023-11-05</lastmod>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/es/blog/post/</loc>
-        <lastmod>2023-09-29</lastmod>
+        <loc>https://ben-tannheimer.ch/es/blog/page/1/</loc>
     </url>
     <url>
         <loc>https://ben-tannheimer.ch/es/projects/</loc>
@@ -54,9 +54,18 @@
         <loc>https://ben-tannheimer.ch/tags/</loc>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/tags/mensaje/</loc>
+        <loc>https://ben-tannheimer.ch/tags/automation/</loc>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/tags/post/</loc>
+        <loc>https://ben-tannheimer.ch/tags/automatizacion/</loc>
+    </url>
+    <url>
+        <loc>https://ben-tannheimer.ch/tags/deployment/</loc>
+    </url>
+    <url>
+        <loc>https://ben-tannheimer.ch/tags/despliegue/</loc>
+    </url>
+    <url>
+        <loc>https://ben-tannheimer.ch/tags/github/</loc>
     </url>
 </urlset>

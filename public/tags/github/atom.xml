@@ -5,13 +5,13 @@
         <str:about_feeds>This is a web feed, also known as an Atom feed. Subscribe by copying the URL from the address bar into your newsreader. Visit About Feeds to learn more and get started. It's free.</str:about_feeds>
         <str:visit_the_site>Visit website</str:visit_the_site>
         <str:recent_posts>Recent posts</str:recent_posts>
-    </str:translations><link rel="extra-stylesheet" href="https://ben-tannheimer.ch/skins/monochrome.css?h=a7b3a267cdca9eae5a65" /><title>~/ben</title>
+    </str:translations><link rel="extra-stylesheet" href="https://ben-tannheimer.ch/skins/monochrome.css?h=a7b3a267cdca9eae5a65" /><title>~/ben - GitHub</title>
         <subtitle>tabi is a fast, lightweight, and modern Zola theme with multi-language support, optional JavaScript, and a perfect Lighthouse score.</subtitle>
-    <link href="https://ben-tannheimer.ch/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://ben-tannheimer.ch/tags/github/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://ben-tannheimer.ch"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-11-05T00:00:00+00:00</updated>
-    <id>https://ben-tannheimer.ch/atom.xml</id>
+    <id>https://ben-tannheimer.ch/tags/github/atom.xml</id>
     <entry xml:lang="en">
         <title>Automated Deployment with GitHub Actions and FTP</title>
         <published>2023-11-05T00:00:00+00:00</published>

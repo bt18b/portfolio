@@ -5,13 +5,13 @@
         <str:about_feeds>Esta es una fuente web, también conocida como fuente Atom. Suscríbete copiando la URL de la barra de direcciones en tu lector de noticias. Visita About Feeds para aprender más y empezar. Es gratis. </str:about_feeds>
         <str:visit_the_site>Visita la web</str:visit_the_site>
         <str:recent_posts>Publicaciones recientes</str:recent_posts>
-    </str:translations><link rel="extra-stylesheet" href="https://ben-tannheimer.ch/skins/monochrome.css?h=a7b3a267cdca9eae5a65" /><title>~/ben</title>
+    </str:translations><link rel="extra-stylesheet" href="https://ben-tannheimer.ch/skins/monochrome.css?h=a7b3a267cdca9eae5a65" /><title>~/ben - Despliegue</title>
         <subtitle>tabi es un tema de Zola rápido, liviano y moderno con JavaScript opcional y una puntuación perfecta en Lighthouse.</subtitle>
-    <link href="https://ben-tannheimer.ch/es/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://ben-tannheimer.ch/es/tags/despliegue/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://ben-tannheimer.ch/es/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-11-05T00:00:00+00:00</updated>
-    <id>https://ben-tannheimer.ch/es/atom.xml</id>
+    <id>https://ben-tannheimer.ch/es/tags/despliegue/atom.xml</id>
     <entry xml:lang="es">
         <title>Despliegue Automatizado con GitHub Actions y FTP</title>
         <published>2023-11-05T00:00:00+00:00</published>
