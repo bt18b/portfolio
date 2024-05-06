@@ -3,9 +3,11 @@ title = "Home"
 template = "section.html"
 +++
 
-# d3c3nt
+# Hey I'm Benjamin Tannheimer
 
-d3c3nt is a simple, clean, and flexible theme for personal sites, made
+I'm a junior programmer who just recently completed his apprenticeship @Swisscom.
+
+<!-- d3c3nt is a simple, clean, and flexible theme for personal sites, made
 by [FIGBERT] for the [Zola static site engine][zola]. This theme is
 developed mainly for use on my personal site, so new features and styles
 will be added when I stumble onto the need to make them.
@@ -41,4 +43,4 @@ subscribe via the [Atom feed][atom]. You can contact me via email at:
 [zola-docs]: https://www.getzola.org/documentation/themes/overview/
 [docs]: @/config.md
 [atom]: https://figbert.com/atom.xml
-[email]: mailto:figbert+d3c3nt@figbert.com
+[email]: mailto:figbert+d3c3nt@figbert.com -->

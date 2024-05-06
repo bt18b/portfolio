@@ -4,9 +4,6 @@
         <loc>https://ben-tannheimer.ch/</loc>
     </url>
     <url>
-        <loc>https://ben-tannheimer.ch/config/</loc>
-    </url>
-    <url>
         <loc>https://ben-tannheimer.ch/posts/</loc>
     </url>
     <url>
@@ -20,5 +17,12 @@
     <url>
         <loc>https://ben-tannheimer.ch/posts/rich-content/</loc>
         <lastmod>2020-08-26</lastmod>
+    </url>
+    <url>
+        <loc>https://ben-tannheimer.ch/projects/</loc>
+    </url>
+    <url>
+        <loc>https://ben-tannheimer.ch/projects/blog/</loc>
+        <lastmod>2020-08-27</lastmod>
     </url>
 </urlset>

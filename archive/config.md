@@ -65,7 +65,7 @@ d3_twitter = "therealFIGBERT"
 <!-- ... -->
 <small>
   <time datetime="2021-12-23">December 23, 2021</time>
-  by <a href="https://figbert.com/">FIGBERT</a>
+  by <a href="https://ben-tannheimer.ch/">Benjamin Tannheimer</a>
 </small>
 ```
 

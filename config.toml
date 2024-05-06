@@ -19,8 +19,8 @@ minify_html = true
     { name = "HOME", path = "/" },
     { name = "POSTS", path = "/posts/" },
     { name = "PROJECTS", path = "/projects" },   
-    { name = "CONFIG", path = "/config/" },
+    # { name = "CONFIG", path = "/config/" },
   ]
   d3_icon = "/icon.png"
-  d3_twitter = "therealFIGBERT"
-  d3_author = "FIGBERT"
+  # d3_twitter = "therealFIGBERT"
+  d3_author = "Benjamin Tannheimer"
