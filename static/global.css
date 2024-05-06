@@ -1,10 +1,12 @@
 :root {
-  --background-color: #1F1E1E;
-  --secondary-color: #214ED4;
-  --tertiary-color: #6082E6;
+  --background-color: #0e0e0e;
+  --secondary-color: #737477;
+  --tertiary-color: #adadad;
   --text-color: #F5F5F5;
-  --link-color: #DCE4F9;
+  --link-color: #007BFF;
 }
+
+
 
 /* Main */
 body {
@@ -17,6 +19,10 @@ body {
   line-height: 200%;
   font-weight: 400;
   max-width: 40rem;
+}
+
+.date {
+  color: var(--tertiary-color);
 }
 
 video, picture, img {
@@ -88,10 +94,14 @@ nav {
   display: flex;
   font-weight: 600;
   justify-content: space-around;
+  background-color: #FFF;
+  height: 48px;
+  align-items: center;
 }
 
 nav > a {
-  color: inherit;
+  color: #1F1E1E;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -202,4 +212,12 @@ mark {
 .error > p {
   font-size: 2rem;
   margin: 0;
+}
+
+.margin-bottom {
+  margin-bottom: 0px;
+}
+
+.padding-bottom {
+  padding-bottom: 0px !important;
 }

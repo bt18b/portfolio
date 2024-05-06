@@ -17,14 +17,15 @@
     <meta name="theme-color" content="#1F1E1E">
   </head>
   <body>
+    <br />
     <header>
       <nav>
       {% for link in config.extra.d3_nav %}
         <a href="{{ link.path | safe }}">{{ link.name }}</a>
       {% endfor %}
       </nav>
-      <hr>
     </header>
+    <br />
     <main>
       {% block content %}{% endblock content %}
     </main>
