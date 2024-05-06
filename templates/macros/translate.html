@@ -1,3 +1,0 @@
-{% macro translate(key, language_strings="", default="") %}
-{{- language_strings[key] | default(value=default) | safe -}}
-{% endmacro %}
