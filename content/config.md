@@ -59,9 +59,9 @@ d3_author = "FIGBERT"
 d3_twitter = "therealFIGBERT"
 ```
 ### Output
+# <meta name="twitter:card" content="summary">
+# <meta name="twitter:creator" content="@therealFIGBERT">
 ```html
-<meta name="twitter:card" content="summary">
-<meta name="twitter:creator" content="@therealFIGBERT">
 <!-- ... -->
 <small>
   <time datetime="2021-12-23">December 23, 2021</time>
