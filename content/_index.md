@@ -5,8 +5,6 @@ template = "section.html"
 
 # Hey I'm Benjamin Tannheimer
 
-I'm a junior programmer who just recently completed his apprenticeship @Swisscom.
-
 <!-- d3c3nt is a simple, clean, and flexible theme for personal sites, made
 by [FIGBERT] for the [Zola static site engine][zola]. This theme is
 developed mainly for use on my personal site, so new features and styles
